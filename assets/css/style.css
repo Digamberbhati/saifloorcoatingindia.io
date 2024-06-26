@@ -159,6 +159,25 @@ a:hover {
   background-color: #2eca6a;
   z-index: 2;
 }
+/* logo */
+#header .logo {
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 500;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+#header .logo a {
+  color: #000000;
+}
+
+#header .logo img {
+  max-height: 130px;
+}
+
 
 /*------/ Bg Image /------*/
 .bg-image {
