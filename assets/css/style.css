@@ -1024,12 +1024,13 @@ a:hover {
 }
 
 .intro .intro-body .price-a {
-  color: #ffffff;
+  color: white;
   padding: 1rem 1.5rem;
-  border: 2px solid #2eca6a;
+  border: 2px solid rgb(241, 124, 124);
   border-radius: 50px;
   text-transform: uppercase;
   letter-spacing: 0.03em;
+  background-color: rgb(226, 103, 103);
 }
 
 .intro .spacial {
@@ -2170,4 +2171,7 @@ footer .copyright-footer {
 
 footer .credits {
   font-size: 14px;
+}
+.welcome{
+  color: #18d26e;
 }
