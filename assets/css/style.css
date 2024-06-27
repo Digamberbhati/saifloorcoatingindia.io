@@ -587,7 +587,7 @@ a:hover {
 }
 
 .navbar-toggle-box {
-  display: inline-flex;
+  display: none;
   align-items: center;
   justify-content: center;
   line-height: 0;
